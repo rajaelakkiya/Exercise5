@@ -1,0 +1,168 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.Move-me 
+{
+  width: 10px;
+  height: 10px;
+  position: absolute;
+  }
+
+
+li a {
+    text-align: center;
+    display: color;
+   background-color:white;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+.row
+{
+      height : 50px;
+      width : 100%;
+      }
+.a1
+     {
+      text-align: center;
+      width: 50%;
+      height: 100%;
+      background-color: white;
+      float: left;
+      margin-top: 200px;
+    }
+.a2 {
+width: 350px;
+background-color:purple;
+float: left;
+border-radius: 50%;
+text-align: center;
+ }
+   .myDiv
+    { 
+      background-color: blueviolet;
+      padding: 30px;
+      height: 100%;
+      margin-top: 400px;
+      text-align: center;
+      position: relative;
+      right:100px;
+      left:10px;
+    }
+     
+     .text-white
+     {
+    
+       color:white;
+       
+     }
+        .row2
+    {
+          height : 50px;
+          width : 100%;
+           }
+        .aa
+        {
+            width: 350px;
+            background-color:purple;
+            float: left;
+      border-radius: 50%;
+      text-align: center;
+      }
+      .col1{
+      padding: 100px;
+    float:right;
+        text-align:center
+      }
+        .bb1
+      {
+        margin: 25px;
+        float: left;
+        height: 50px;
+        width: 25%;
+        text-align: center;
+    }
+      .bb2
+      {
+        margin:25px;
+        float:right;
+        height:50px;
+        width:25%;
+        text-align: center;
+      }
+      .bb3
+      { margin: 25px;
+        float:left;
+        height:50px;
+        width:25%;
+        text-align: center;
+      }
+      .bb4
+      { margin: 25px;
+        float:right;
+        height:50px;
+        width:25%;
+        text-align: center;
+      }
+    
+    .text-blue
+    {
+        color: rgb(83, 84, 148);
+    
+    }
+   .d1
+     {
+      left: 357px;
+      margin-right: -189px;
+      margin-top: 214px;
+      text-align: center;
+      height: 100%;
+      background-color: white;
+  float: left;
+    }
+.d2 {
+width: 350px;
+background-color:rgb(184, 32, 184);
+float: left;
+border-radius: 50%;
+text-align: center;
+    
+  }
+  .avatar {
+    float: right;
+background-color: purple;
+  border-radius: 50%;
+        text-align: center;
+        padding: 150px;
+        margin-top: 100px;
+  }
+ .row4 
+  {
+    padding: 50px;
+  background-color:rgb(189, 21, 189); 
+  height ="50px";
+  width ="50px";
+  }
+  .bottom{
+    padding: 5px;
+  height: 100%;
+  margin: 100px;
+  text-align: center;
+}
+
+    .button
+    {
+      height: 50px;
+      width:50px
+    }
+    .footer {
+    
+      
+      width: 100%;
+      background-color:black;
+      color: white;
+      text-align: center;
+      bottom: 0%;
+      height: 120px;
+   }
